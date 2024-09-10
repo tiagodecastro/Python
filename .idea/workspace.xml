@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df23a2ef-3724-48fc-a9c6-18126133b34e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FichasPraticas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FichaPratica02/Ex_17.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2liR56cdH7I7C8Gb0pvUR7f6JWq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ex_07.executor": "Run",
+    "Python.Ex_08.executor": "Run",
+    "Python.Ex_09.executor": "Run",
+    "Python.Ex_10.executor": "Run",
+    "Python.Ex_11.executor": "Run",
+    "Python.Ex_12.executor": "Run",
+    "Python.Ex_13.executor": "Run",
+    "Python.Ex_14.executor": "Run",
+    "Python.Ex_15.executor": "Run",
+    "Python.Ex_16.executor": "Run",
+    "Python.Ex_17.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df23a2ef-3724-48fc-a9c6-18126133b34e" name="Changes" comment="" />
+      <created>1725660724032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725660724032</updated>
+    </task>
+    <servers />
+  </component>
+</project>
