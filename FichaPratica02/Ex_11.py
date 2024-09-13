@@ -4,7 +4,7 @@ saldobancario = float(input())
 
 # Ler Valor a Creditar/Debitar
 print("Quer Creditar ou Debitar?")
-operacao = str(input())
+operacao = input()
 
 # Detetar se operação é para Debitar ou Creditar
 if operacao == 'debitar' or operacao == 'Debitar':
