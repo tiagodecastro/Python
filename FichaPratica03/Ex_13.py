@@ -12,7 +12,7 @@ while ciclo <= quant :
     if anterior is not None:
         if num < anterior:
             crescente = False
-    if anterior is not None:
+    if anterior is not None and crescente != False:
         if num > anterior:
             crescente = True
 
