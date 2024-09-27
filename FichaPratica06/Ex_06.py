@@ -1,5 +1,4 @@
 numero = []
-menor = 0
 crescente = True
 
 for i in range (0,10):

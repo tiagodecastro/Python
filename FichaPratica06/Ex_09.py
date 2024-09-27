@@ -1,4 +1,5 @@
 numero = []
+encontrado = False
 
 for i in range (0,10):
     num = int(input(f"Introduza um número no Array[{i}]:"))
@@ -7,11 +8,11 @@ for i in range (0,10):
 
 pesquisa = int(input("Número a pesquisar: "))
 for i in range (0, 10):
-    encontrado = False
     if numero[i] == pesquisa:
-        print(f"{pesquisa} existe na Array")
         encontrado = True
         break
 
-if encontrado == False:
+if encontrado:
+    print(f"{pesquisa} existe na Array")
+else:
     print(f"{pesquisa} não existe na Array")
