@@ -88,5 +88,3 @@ def testar_tudo():
         print("O número é triângular")
     else:
         print("O número não é triângular")
-
-testar_tudo()

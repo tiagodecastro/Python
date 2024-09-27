@@ -12,5 +12,5 @@ def lervalorpositivo():
 def asteriscos(valor):
     print("*" * valor)
 
-valor = lervalorpositivo()
-asteriscos(valor)
+# valor = lervalorpositivo()
+asteriscos(lervalorpositivo())
