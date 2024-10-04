@@ -12,4 +12,4 @@ for i in range (0,10):
 if crescente == True:
     print("Ordem crescente")
 else:
-    print("Ordem não decrescente")
+    print("Ordem não crescente")
