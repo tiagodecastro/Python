@@ -33,7 +33,9 @@ while opcao != 4 :
 
             print("Estes dados estão corretos?")
             print(novoContacto)
+
             confirma = input("Deseja continuar? (S/N)").upper()
+
             if confirma == 'S':
                 listaContactos.append(novoContacto)
                 print("Contacto inserido")

@@ -20,7 +20,9 @@ while opcao != 3:
         case 2:
             total = sum(lista_compras.values())
             print(f"Preço total: {total}")
+
         case 3:
             print("A sair...")
+
         case _:
             print("Opção inválida")
