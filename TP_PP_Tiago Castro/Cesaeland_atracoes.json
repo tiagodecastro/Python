@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "atracao":"Montanha Russa da Programacao",
+        "precoAdulto":15.0,
+        "precoCrianca":12.0,
+        "duracaoSegundos":180
+    },
+    {
+        "id":2,
+        "atracao":"Casa Assombrada de Projeto Final",
+        "precoAdulto":3.5,
+        "precoCrianca":2.5,
+        "duracaoSegundos":240
+    },
+    {
+        "id":3,
+        "atracao":"Trampolins Bases de Dados",
+        "precoAdulto":10.0,
+        "precoCrianca":5.0,
+        "duracaoSegundos":600
+    },
+    {
+        "id":4,
+        "atracao":"Rafting Laravel",
+        "precoAdulto":5.0,
+        "precoCrianca":4.0,
+        "duracaoSegundos":90
+    },
+    {
+        "id":5,
+        "atracao":"Carrossel Web",
+        "precoAdulto":4.5,
+        "precoCrianca":3.0,
+        "duracaoSegundos":120
+    },
+    {
+        "id":6,
+        "atracao":"Rio Lento Quality Assurance",
+        "precoAdulto":3.0,
+        "precoCrianca":1.5,
+        "duracaoSegundos":360
+    },
+    {
+        "id":7,
+        "atracao":"Elevador de Servicos",
+        "precoAdulto":10.0,
+        "precoCrianca":8.0,
+        "duracaoSegundos":120
+    },
+    {
+        "id":8,
+        "atracao":"Escorregas da IA",
+        "precoAdulto":2.0,
+        "precoCrianca":0.5,
+        "duracaoSegundos":30
+    },
+    {
+        "id":9,
+        "atracao":"Torre da Nuvem",
+        "precoAdulto":12.0,
+        "precoCrianca":10.0,
+        "duracaoSegundos":180
+    },
+    {
+        "id":10,
+        "atracao":"Labirinto do Trabalho em Equipa",
+        "precoAdulto":7.5,
+        "precoCrianca":5.0,
+        "duracaoSegundos":520
+    }
+]
